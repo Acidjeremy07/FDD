@@ -1,0 +1,2 @@
+# FDD
+ Prácticas elaboradas en la materia de fundamentos de diseño digital en las cuales se uso VHDL mediante el software de galaxy para windows xp, se realizarón tanto los circuito en físico usando la GAL22V10D así como la simulación usando el mismo proporcionado por el software de Galaxy dentro de las prácticas se usan compuertas lógicas, dipswitches, resistencias, leds, protoboards, displays de 7 segmentos y 555 simulado en Proteus 8.16
