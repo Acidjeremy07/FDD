@@ -3,7 +3,7 @@
 
 Las prácticas simuladas estan realizadas en el software de "Constructor virtual de circuitos" en la versión 0.9
 
-##"¡Vamo' Pa' Chincha Familia!"
+"¡Vamo' Pa' Chincha Familia!"
 
 Dentro de las prácticas simuladas dentro del software antes mencionado se tiene también las minimizaciones necesarias para llegar al circuito resultante, además de contar
 con el formato de exportación del mismo software
