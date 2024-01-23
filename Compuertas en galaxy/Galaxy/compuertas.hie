@@ -1,0 +1,12 @@
+xnor.vhd #Entity compuerta_xnor 4
+xnor.vhd #Architecture funcion compuerta_xnor 10
+xor.vhd #Entity compuerta_xor 4
+xor.vhd #Architecture funcion compuerta_xor 10
+nor.vhd #Entity compuerta_nor 4
+nor.vhd #Architecture funcion compuerta_nor 10
+or.vhd #Entity compuerta_or 4
+or.vhd #Architecture funcion compuerta_or 10
+nand.vhd #Entity compuerta_nand 4
+nand.vhd #Architecture funcion compuerta_nand 10
+and.vhd #Entity compuerta_and 4
+and.vhd #Architecture funcion compuerta_and 10

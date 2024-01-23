@@ -1,0 +1,10 @@
+ENTITY multiplexor IS
+    PORT (
+	w0 : in std_logic  ; 
+	w1 : in std_logic  ; 
+	w2 : in std_logic  ; 
+	w3 : in std_logic  ; 
+	selec : in std_logic_vector (1 downto 0) ; 
+	f : inout std_logic 
+    ) ;
+END multiplexor ;

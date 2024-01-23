@@ -1,0 +1,7 @@
+ Compilation with file reorder...
+ File: C:\Documents and Settings\Administrador\Escritorio\comparadorF.vhd
+ Compile Entity "comparador"
+ Compile Architecture "resultado" of Entity "comparador"
+ Top-Level unit detected
+ Entity  =>   comparador
+ Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]

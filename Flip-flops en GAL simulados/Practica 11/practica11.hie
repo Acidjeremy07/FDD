@@ -1,0 +1,10 @@
+FFT.vhd #Entity fft 4
+FFT.vhd #Architecture codigo fft 11
+RSQa.vhd #Entity rs_ff 3
+RSQa.vhd #Architecture rsff_arch rs_ff 9
+FFJK.vhd #Entity ffjk 4
+FFJK.vhd #Architecture codigo ffjk 10
+FFSRs.vhd #Entity flipflopsrs 4
+FFSRs.vhd #Architecture codigo flipflopsrs 10
+FFDa.vhd #Entity flipflop 4
+FFDa.vhd #Architecture codigo flipflop 11

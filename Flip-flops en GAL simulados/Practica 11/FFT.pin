@@ -1,0 +1,9 @@
+Cypress Package: palce22v10-15pc  PinOut File: FFT.pin
+
+This file was created on 12/20/2021 at 11:46:57 
+by PLA2JED.EXE    31/03/2000  [v4.02 ] 6.3 IR 35
+
+==========
+clock gclk <> Enabled Normal 1 <> [Auto] 
+t in <> Enabled Normal 2 <> [Auto] 
+q inout <> Enabled Normal 14 <> [Auto] 

@@ -1,0 +1,6 @@
+MESSAGE "File: C:\Documents and Settings\Administrador\Escritorio\Practica 11\vhd\RSQa.vhd" 
+MESSAGE "Compile Entity "rs_ff"" 
+MESSAGE "Compile Architecture "DSMB" of Entity "rs_ff"" 
+MESSAGE "Top-Level unit detected" 
+MESSAGE "Entity  =>   rs_ff" 
+MESSAGE "Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]" 

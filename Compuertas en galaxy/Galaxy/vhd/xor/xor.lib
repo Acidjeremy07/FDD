@@ -1,0 +1,10 @@
+[~A]
+last=2880
+modifyid=3
+valid=19662
+ver=57
+
+[~U]
+compuerta_xor=2880,5
+compuerta_xor__DSMB__code=0,1
+

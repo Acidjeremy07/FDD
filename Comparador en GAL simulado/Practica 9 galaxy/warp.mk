@@ -1,0 +1,1 @@
+-m -yu -e10 -w100 -o2 -ygs -fP -v10 -dc22v10 -ppalce22v10-25pc/pi -a comparador.vhd -a comparador3.vhd -a comparador2.vhd -b comparadorF.vhd -u 1.hie 

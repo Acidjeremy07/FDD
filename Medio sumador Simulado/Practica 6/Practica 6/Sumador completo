@@ -1,0 +1,11 @@
+LIBRARY ieee;
+USE ieee.std_logic_1164.all; 
+
+ENTITY suma IS 
+	PORT(a: IN STD_LOGIC_VECTOR(3 DOWNTO 0);
+		 b: IN STD_LOGIC_VECTOR(3 DOWNTO 0);
+		 cin  : in std_logic;
+	 	 suma : OUT STD_LOGIC_VECTOR(3 DOWNTO 0);
+		 carry: out std_logic);
+
+END suma;

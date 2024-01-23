@@ -1,0 +1,23 @@
+ENTITY suma IS
+    PORT (
+	a0 : in std_logic  ; 
+	a1 : in std_logic  ; 
+	a2 : in std_logic  ; 
+	a3 : in std_logic  ; 
+	b0 : in std_logic  ; 
+	b1 : in std_logic  ; 
+	b2 : in std_logic  ; 
+	b3 : in std_logic  ; 
+	cin0 : in std_logic  ; 
+	cin1 : in std_logic  ; 
+	cin2 : in std_logic  ; 
+	cout0 : inout std_logic  ; 
+	cout1 : inout std_logic  ; 
+	cout2 : inout std_logic  ; 
+	cout3 : inout std_logic  ; 
+	s0 : inout std_logic  ; 
+	s1 : inout std_logic  ; 
+	s2 : inout std_logic  ; 
+	s3 : inout std_logic 
+    ) ;
+END suma ;

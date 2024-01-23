@@ -1,0 +1,7 @@
+ Compilation with file reorder...
+ File: C:\Documents and Settings\Administrador\Mis documentos\vhd\and.vhd
+ Compile Entity "compuerta_and"
+ Compile Architecture "DSMB" of Entity "compuerta_and"
+ Top-Level unit detected
+ Entity  =>   compuerta_and
+ Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]

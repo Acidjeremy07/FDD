@@ -1,0 +1,55 @@
+$WAVE
+$SIGNAL 1 a -1 0 IN 500000
+1 Stimulator="VAL:FRM:Override:1:<= 1:1:0ps"
+$SIGNAL 2 b -1 0 IN 500000
+2 Stimulator="VAL:FRM:Override:1:<= 1:1:0ps"
+$SIGNAL 4 carry -1 0 OUT 500000
+$SIGNAL 3 cin -1 0 IN 500000
+3 Stimulator="VAL:FRM:Override:1:<= 1:1:0ps"
+$SIGNAL 5 suma -1 0 OUT 500000
+$EVENTS
+I 0 "e#9#std_logicc9 UX01ZWLH-"
+S 1 0
+S 2 0
+S 3 0
+S 4 0
+S 5 0
+1 U
+2 U
+3 U
+4 U
+5 U
+D 1
+3 0
+2 0
+1 0
+D 2
+5 0
+4 0
+T 100000
+D 1
+1 1
+D 2
+5 1
+T 100000
+D 1
+3 1
+1 0
+T 100000
+D 1
+1 1
+D 2
+5 0
+4 1
+T 100000
+D 1
+2 1
+D 2
+5 1
+T 100000
+1 1
+2 1
+3 1
+4 1
+5 1
+$ENDWAVE

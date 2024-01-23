@@ -1,0 +1,13 @@
+Cypress Package: palc22v10d-25pc  PinOut File: MULTIPLEX.pin
+
+This file was created on 05/17/2022 at 22:33:00 
+by PLA2JED.EXE    31/03/2000  [v4.02 ] 6.3 IR 35
+
+==========
+w0 in <> Enabled Normal 2 <> [User] 
+w1 in <> Enabled Normal 3 <> [User] 
+w2 in <> Enabled Normal 4 <> [User] 
+w3 in <> Enabled Normal 5 <> [User] 
+selec(0) in <> Enabled Normal 6 <> [User] 
+selec(1) in <> Enabled Normal 7 <> [User] 
+f out <> Enabled Normal 14 <> [User] 

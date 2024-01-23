@@ -1,0 +1,6 @@
+MESSAGE "File: C:\Documents and Settings\Administrador\Escritorio\Practica 6\Mediosum.vhd" 
+MESSAGE "Compile Entity "suma"" 
+MESSAGE "Compile Architecture "codigo" of Entity "suma"" 
+MESSAGE "Top-Level unit detected" 
+MESSAGE "Entity  =>   suma" 
+MESSAGE "Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]" 

@@ -1,0 +1,15 @@
+ENTITY deco IS
+    PORT (
+	a : inout std_logic  ; 
+	b : inout std_logic  ; 
+	c : inout std_logic  ; 
+	d : inout std_logic  ; 
+	e : inout std_logic  ; 
+	f : inout std_logic  ; 
+	g : inout std_logic  ; 
+	x3 : in std_logic  ; 
+	x2 : in std_logic  ; 
+	x1 : in std_logic  ; 
+	x0 : in std_logic 
+    ) ;
+END deco ;

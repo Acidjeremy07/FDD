@@ -1,0 +1,45 @@
+
+     | | | | | | |
+   _________________
+  -|               |-
+  -|               |-
+  -|               |-
+  -|    CYPRESS    |-
+  -|               |-
+  -|               |-   Warp VHDL Synthesis Compiler: Version 6.3 IR 35
+  -|               |-   Copyright (C) 1991-2001 Cypress Semiconductor
+   |_______________|
+     | | | | | | |
+
+======================================================================
+Compiling:  Mediosum.vhd
+Options:    -yu -e10 -w100 -o2 -ygs -fP -v10 -dc22v10 -ppalc22v10d-25pc -a Mediosum.vhd -a sum3bits.vhd -b Sumador4bits.vhd -u Sumadores.hie
+======================================================================
+
+vhdlfe V6.3 IR 35:  VHDL parser
+Wed Nov 10 08:31:58 2021
+
+Library 'work' => directory 'lc22v10'
+Linking 'C:\Archivos de programa\Cypress\Warp\bin\std.vhd'.
+Linking 'C:\Archivos de programa\Cypress\Warp\lib\common\cypress.vhd'.
+Linking 'C:\Archivos de programa\Cypress\Warp\lib\common\work\cypress.vif'.
+Library 'ieee' => directory 'C:\Archivos de programa\Cypress\Warp\lib\ieee\work'
+Linking 'C:\Archivos de programa\Cypress\Warp\lib\ieee\work\stdlogic.vif'.
+
+vhdlfe:  No errors.
+
+
+tovif V6.3 IR 35:  High-level synthesis
+Wed Nov 10 08:31:58 2021
+
+Linking 'C:\Archivos de programa\Cypress\Warp\bin\std.vhd'.
+Linking 'C:\Archivos de programa\Cypress\Warp\lib\common\cypress.vhd'.
+Linking 'C:\Archivos de programa\Cypress\Warp\lib\common\work\cypress.vif'.
+Linking 'C:\Archivos de programa\Cypress\Warp\lib\ieee\work\stdlogic.vif'.
+tovif:  Mediosum.vhd:  Warning: (W377) 'suma' from 'mediosum.vhd' replaces that from 'sum3bits.vhd' in library 'work'
+tovif:  Mediosum.vhd:  Warning: (W377) 'suma(codigo)' from 'mediosum.vhd' replaces that from 'sum3bits.vhd' in library 'work'
+Added entity 'suma' to library 'work'
+Added architecture 'codigo' to library 'work'
+
+tovif:  No errors.  2 warnings.
+

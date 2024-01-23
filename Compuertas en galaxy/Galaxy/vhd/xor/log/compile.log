@@ -1,0 +1,7 @@
+ Compilation with file reorder...
+ File: C:\Documents and Settings\Administrador\Mis documentos\vhd\xor.vhd
+ Compile Entity "compuerta_xor"
+ Compile Architecture "DSMB" of Entity "compuerta_xor"
+ Top-Level unit detected
+ Entity  =>   compuerta_xor
+ Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]

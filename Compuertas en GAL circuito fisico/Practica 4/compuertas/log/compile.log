@@ -1,0 +1,7 @@
+ Compilation with file reorder...
+ File: C:\Documents and Settings\Administrador\Escritorio\Practica 4\compuertas.vhd
+ Compile Entity "COMPUERTAS"
+ Compile Architecture "CODIGO" of Entity "COMPUERTAS"
+ Top-Level unit detected
+ Entity  =>   COMPUERTAS
+ Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]

@@ -1,0 +1,7 @@
+ENTITY fft IS
+    PORT (
+	t : in std_logic  ; 
+	clock : in std_logic  ; 
+	q : inout std_logic 
+    ) ;
+END fft ;

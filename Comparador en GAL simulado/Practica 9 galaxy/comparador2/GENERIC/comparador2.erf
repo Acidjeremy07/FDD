@@ -1,0 +1,9 @@
+MESSAGE "File: C:\Documents and Settings\Administrador\Escritorio\comparador2.vhd" 
+MESSAGE "Compile Entity "comparador"" 
+MESSAGE "Compile Architecture "resultado" of Entity "comparador"" 
+ERROR COMP96_0143: "Object "mayor" may not be written" "C:\Documents and Settings\Administrador\Escritorio\comparador2.vhd" 14 3
+ERROR COMP96_0143: "Object "menor" may not be written" "C:\Documents and Settings\Administrador\Escritorio\comparador2.vhd" 15 3
+ERROR COMP96_0143: "Object "igual" may not be written" "C:\Documents and Settings\Administrador\Escritorio\comparador2.vhd" 16 3
+MESSAGE "Top-Level unit detected" 
+MESSAGE "Entity  =>   comparador" 
+MESSAGE "Compile failure 3 Errors 0 Warnings  Analysis time :  0.0 [s]" 

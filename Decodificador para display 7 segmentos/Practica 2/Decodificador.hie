@@ -1,0 +1,4 @@
+Boleta.vhd #Entity edeco 4
+Boleta.vhd #Architecture adeco edeco 11
+Decodificador.vhd #Entity edeco 4
+Decodificador.vhd #Architecture adeco edeco 11

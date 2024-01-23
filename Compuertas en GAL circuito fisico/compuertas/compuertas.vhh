@@ -1,0 +1,14 @@
+ENTITY compuertas IS
+    PORT (
+	a : in std_logic  ; 
+	b : in std_logic  ; 
+	c : in std_logic  ; 
+	d : in std_logic  ; 
+	andx : inout std_logic  ; 
+	orx : inout std_logic  ; 
+	nandx : inout std_logic  ; 
+	norx : inout std_logic  ; 
+	xorx : inout std_logic  ; 
+	xnorx : inout std_logic 
+    ) ;
+END compuertas ;

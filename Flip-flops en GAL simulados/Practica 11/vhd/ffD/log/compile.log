@@ -1,0 +1,7 @@
+ Compilation with file reorder...
+ File: C:\Documents and Settings\Administrador\Escritorio\Practica 11\vhd\ffD.vhd
+ Compile Entity "flipflop"
+ Compile Architecture "DSMB" of Entity "flipflop"
+ Top-Level unit detected
+ Entity  =>   flipflop
+ Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]

@@ -1,0 +1,9 @@
+ENTITY sr_ff IS
+    PORT (
+	s : in std_logic  ; 
+	r : in std_logic  ; 
+	clock : in std_logic  ; 
+	q : inout std_logic  ; 
+	qbar : inout std_logic 
+    ) ;
+END sr_ff ;

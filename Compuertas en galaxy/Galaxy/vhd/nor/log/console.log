@@ -1,0 +1,6 @@
+Design: 2:08, miércoles, 20 de octubre de 2021
+Design: Opening design "C:\Documents and Settings\Administrador\Mis documentos\vhd\nor\nor.adf"
+ELBREAD: Elaboration process.
+ELBREAD: Error: Architecture 'DSMB' of entity 'compuerta_nor' not found in library 'work'.
+ELBREAD: Error: Elaboration process completed with errors.
+Design: Error: Elaboration failed

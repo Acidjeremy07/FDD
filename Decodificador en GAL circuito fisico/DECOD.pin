@@ -1,0 +1,17 @@
+Cypress Package: palc22v10d-25pc  PinOut File: DECOD.pin
+
+This file was created on 06/01/2022 at 23:04:29 
+by PLA2JED.EXE    31/03/2000  [v4.02 ] 6.3 IR 35
+
+==========
+x3 in <> Enabled Normal 2 <> [User] 
+x2 in <> Enabled Normal 3 <> [User] 
+x1 in <> Enabled Normal 5 <> [User] 
+x0 in <> Enabled Normal 6 <> [User] 
+a out <> Enabled Normal 14 <> [User] 
+b out <> Enabled Normal 15 <> [User] 
+c out <> Enabled Normal 16 <> [User] 
+d out <> Enabled Normal 17 <> [User] 
+e out <> Enabled Normal 18 <> [User] 
+f out <> Enabled Normal 19 <> [User] 
+g out <> Enabled Normal 20 <> [User] 

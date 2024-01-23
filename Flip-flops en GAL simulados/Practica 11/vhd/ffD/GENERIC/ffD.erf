@@ -1,0 +1,6 @@
+MESSAGE "File: C:\Documents and Settings\Administrador\Escritorio\Practica 11\vhd\ffD.vhd" 
+MESSAGE "Compile Entity "flipflop"" 
+MESSAGE "Compile Architecture "DSMB" of Entity "flipflop"" 
+MESSAGE "Top-Level unit detected" 
+MESSAGE "Entity  =>   flipflop" 
+MESSAGE "Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]" 

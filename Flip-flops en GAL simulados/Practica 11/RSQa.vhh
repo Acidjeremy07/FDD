@@ -1,0 +1,9 @@
+ENTITY rs_ff IS
+    PORT (
+	clk : in std_logic  ; 
+	r : in std_logic  ; 
+	s : in std_logic  ; 
+	q : inout std_logic  ; 
+	qnot : inout std_logic 
+    ) ;
+END rs_ff ;

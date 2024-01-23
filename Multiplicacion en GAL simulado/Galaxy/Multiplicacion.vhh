@@ -1,0 +1,12 @@
+ENTITY mult IS
+    PORT (
+	a0 : in std_logic  ; 
+	a1 : in std_logic  ; 
+	b0 : in std_logic  ; 
+	b1 : in std_logic  ; 
+	p0 : inout std_logic  ; 
+	p1 : inout std_logic  ; 
+	p2 : inout std_logic  ; 
+	p3 : inout std_logic 
+    ) ;
+END mult ;

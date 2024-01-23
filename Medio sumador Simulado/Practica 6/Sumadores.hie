@@ -1,0 +1,4 @@
+sum3bits.vhd #Entity suma 4
+sum3bits.vhd #Architecture codigo suma 10
+Mediosum.vhd #Entity suma 4
+Mediosum.vhd #Architecture codigo suma 10

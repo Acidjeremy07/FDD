@@ -1,0 +1,265 @@
+01000102 V suma 5 "C:\Documents and Settings\Administrador\Escritorio\Practica 6\Sumador4bits.vhd" 1574 459 0
+12
+0
+12
+00000004
+1
+C:\Documents*and*Settings\Administrador\Escritorio\Practica*6\Sumador4bits.vhd
+0
+0 0 0 0 0 0
+1
+1
+29
+0
+29
+12 ~ ~ 0 0
+0
+67
+0
+1
+15 ieee std_logic_1164 4 2
+0
+15 ieee std_logic_1164 0 0
+0
+0
+1
+29
+0
+29
+12 ~ ~ 1 1
+1
+67
+0
+1
+15 ieee std_logic_1164 4 2
+0
+15 ieee std_logic_1164 0 0
+0
+0
+1
+29
+0
+29
+12 ~ ~ 2 2
+2
+67
+0
+1
+15 ieee std_logic_1164 4 2
+0
+15 ieee std_logic_1164 0 0
+0
+0
+1
+29
+0
+29
+12 ~ ~ 3 3
+3
+67
+0
+1
+15 ieee std_logic_1164 4 2
+0
+15 ieee std_logic_1164 0 0
+0
+0
+1
+29
+0
+29
+12 ~ ~ 4 4
+4
+67
+0
+1
+15 ieee std_logic_1164 4 2
+0
+15 ieee std_logic_1164 0 0
+0
+0
+1
+29
+0
+29
+12 ~ ~ 5 5
+5
+67
+0
+1
+15 ieee std_logic_1164 4 2
+0
+15 ieee std_logic_1164 0 0
+0
+0
+1
+29
+0
+29
+12 ~ ~ 6 6
+6
+67
+0
+1
+15 ieee std_logic_1164 4 2
+0
+15 ieee std_logic_1164 0 0
+0
+0
+1
+29
+0
+29
+12 ~ ~ 7 7
+7
+67
+0
+1
+15 ieee std_logic_1164 4 2
+0
+15 ieee std_logic_1164 0 0
+0
+0
+1
+29
+0
+29
+12 ~ ~ 8 8
+8
+67
+0
+1
+15 ieee std_logic_1164 4 2
+0
+15 ieee std_logic_1164 0 0
+0
+0
+1
+29
+0
+29
+12 ~ ~ 9 9
+9
+68
+0
+1
+15 ieee std_logic_1164 4 2
+0
+15 ieee std_logic_1164 0 0
+0
+0
+1
+29
+0
+29
+12 ~ ~ 10 10
+10
+68
+0
+1
+15 ieee std_logic_1164 4 2
+0
+15 ieee std_logic_1164 0 0
+0
+0
+1
+29
+0
+29
+12 ~ ~ 11 11
+11
+68
+0
+1
+15 ieee std_logic_1164 4 2
+0
+15 ieee std_logic_1164 0 0
+0
+0
+1
+29
+0
+29
+12 ~ ~ 12 12
+12
+68
+0
+1
+15 ieee std_logic_1164 4 2
+0
+15 ieee std_logic_1164 0 0
+0
+0
+1
+29
+0
+29
+12 ~ ~ 13 13
+13
+68
+0
+1
+15 ieee std_logic_1164 4 2
+0
+15 ieee std_logic_1164 0 0
+0
+0
+1
+29
+0
+29
+12 ~ ~ 14 14
+14
+68
+0
+1
+15 ieee std_logic_1164 4 2
+0
+15 ieee std_logic_1164 0 0
+0
+0
+1
+29
+0
+29
+12 ~ ~ 15 15
+15
+68
+0
+1
+15 ieee std_logic_1164 4 2
+0
+15 ieee std_logic_1164 0 0
+0
+0
+0
+#VLB_VERSION 56
+#INFO
+suma
+E 1636534500.971
+16
+#ACCESS
+std
+.
+ieee
+std_logic_1164 all .
+.
+#OBJECTS
+a3 0 29 119 1 . 5
+a2 1 29 209 1 . 5
+a1 2 29 299 1 . 5
+a0 3 29 389 1 . 5
+b3 4 29 479 1 . 6
+b2 5 29 569 1 . 6
+b1 6 29 659 1 . 6
+b0 7 29 749 1 . 6
+cin 8 29 839 1 . 7
+s0 9 29 929 1 . 8
+s1 10 29 1019 1 . 8
+s2 11 29 1112 1 . 8
+s3 12 29 1205 1 . 8
+cout0 13 29 1298 1 . 9
+cout2 14 29 1391 1 . 9
+cout3 15 29 1484 1 . 9
+#SPECIFICATION 
+#END

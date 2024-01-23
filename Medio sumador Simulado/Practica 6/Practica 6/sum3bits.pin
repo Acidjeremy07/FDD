@@ -1,0 +1,11 @@
+Cypress Package: palc22v10d-25pc  PinOut File: sum3bits.pin
+
+This file was created on 11/03/2021 at 17:05:45 
+by PLA2JED.EXE    31/03/2000  [v4.02 ] 6.3 IR 35
+
+==========
+cin in <> Enabled Normal 1 <> [Auto] 
+b in <> Enabled Normal 2 <> [Auto] 
+a in <> Enabled Normal 3 <> [Auto] 
+suma out <> Enabled Normal 14 <> [Auto] 
+carry out <> Enabled Normal 23 <> [Auto] 

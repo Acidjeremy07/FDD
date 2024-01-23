@@ -1,0 +1,6 @@
+MESSAGE "File: C:\Documents and Settings\Administrador\Mis documentos\xor.vhd" 
+MESSAGE "Compile Entity "compuerta_xor"" 
+MESSAGE "Compile Architecture "funcion" of Entity "compuerta_xor"" 
+MESSAGE "Top-Level unit detected" 
+MESSAGE "Entity  =>   compuerta_xor" 
+MESSAGE "Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]" 

@@ -1,0 +1,6 @@
+MESSAGE "File: C:\Documents and Settings\Administrador\Mis documentos\nor.vhd" 
+MESSAGE "Compile Entity "compuerta_nor"" 
+MESSAGE "Compile Architecture "funcion" of Entity "compuerta_nor"" 
+MESSAGE "Top-Level unit detected" 
+MESSAGE "Entity  =>   compuerta_nor" 
+MESSAGE "Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]" 

@@ -1,0 +1,7 @@
+MESSAGE "File: C:\Documents and Settings\Administrador\Escritorio\Practica 6\Sumador4bits.vhd" 
+MESSAGE "Compile Entity "suma"" 
+MESSAGE "Compile Architecture "codigo" of Entity "suma"" 
+ERROR COMP96_0143: "Object "cin" may not be written" "C:\Documents and Settings\Administrador\Escritorio\Practica 6\Sumador4bits.vhd" 19 2
+MESSAGE "Top-Level unit detected" 
+MESSAGE "Entity  =>   suma" 
+MESSAGE "Compile failure 1 Errors 0 Warnings  Analysis time :  0.0 [s]" 

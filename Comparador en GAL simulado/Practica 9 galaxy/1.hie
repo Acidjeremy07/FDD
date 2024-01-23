@@ -1,0 +1,8 @@
+comparadorF.vhd #Entity comparador 4
+comparadorF.vhd #Architecture resultado comparador 11
+comparador2.vhd #Entity comparador 4
+comparador2.vhd #Architecture resultado comparador 11
+comparador3.vhd #Entity comparador 4
+comparador3.vhd #Architecture resultado comparador 11
+comparador.vhd #Entity comparador 4
+comparador.vhd #Architecture resultado comparador 11

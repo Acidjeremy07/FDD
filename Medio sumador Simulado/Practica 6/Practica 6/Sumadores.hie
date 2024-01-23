@@ -1,0 +1,8 @@
+restadorcompleto.vhd #Entity resta 4
+restadorcompleto.vhd #Architecture codigo resta 11
+Mediores.vhd #Entity resta 4
+Mediores.vhd #Architecture codigo resta 10
+sum3bits.vhd #Entity suma 4
+sum3bits.vhd #Architecture codigo suma 10
+Mediosum.vhd #Entity suma 4
+Mediosum.vhd #Architecture codigo suma 10

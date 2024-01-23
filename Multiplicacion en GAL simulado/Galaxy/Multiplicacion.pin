@@ -1,0 +1,14 @@
+Cypress Package: palc22v10d-25pc  PinOut File: Multiplicacion.pin
+
+This file was created on 11/17/2021 at 10:24:29 
+by PLA2JED.EXE    31/03/2000  [v4.02 ] 6.3 IR 35
+
+==========
+b1 in <> Enabled Normal 1 <> [Auto] 
+b0 in <> Enabled Normal 2 <> [Auto] 
+a1 in <> Enabled Normal 3 <> [Auto] 
+a0 in <> Enabled Normal 4 <> [Auto] 
+p1 out <> Enabled Normal 14 <> [Auto] 
+p3 out <> Enabled Normal 15 <> [Auto] 
+p0 out <> Enabled Normal 22 <> [Auto] 
+p2 out <> Enabled Normal 23 <> [Auto] 

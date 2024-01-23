@@ -1,0 +1,16 @@
+Cypress Package: palc22v10d-25pc  PinOut File: compuertas.pin
+
+This file was created on 05/01/2022 at 23:42:19 
+by PLA2JED.EXE    31/03/2000  [v4.02 ] 6.3 IR 35
+
+==========
+d in <> Enabled Normal 1 <> [Auto] 
+c in <> Enabled Normal 2 <> [Auto] 
+b in <> Enabled Normal 3 <> [Auto] 
+a in <> Enabled Normal 4 <> [Auto] 
+xorx out <> Enabled Normal 14 <> [Auto] 
+orx out <> Enabled Normal 15 <> [Auto] 
+nandx out <> Enabled Normal 16 <> [Auto] 
+andx out <> Enabled Normal 21 <> [Auto] 
+norx out <> Enabled Normal 22 <> [Auto] 
+xnorx out <> Enabled Normal 23 <> [Auto] 

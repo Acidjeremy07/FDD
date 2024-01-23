@@ -1,0 +1,7 @@
+ Compilation with file reorder...
+ File: C:\Documents and Settings\Administrador\Escritorio\Practica 6\sum3bits.vhd
+ Compile Entity "suma"
+ Compile Architecture "codigo" of Entity "suma"
+ Top-Level unit detected
+ Entity  =>   suma
+ Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
